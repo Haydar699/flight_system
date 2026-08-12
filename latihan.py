@@ -1,1 +1,0 @@
-print("iki latihan yooo")
