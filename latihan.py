@@ -1,0 +1,1 @@
+print("iki latihan yooo")
